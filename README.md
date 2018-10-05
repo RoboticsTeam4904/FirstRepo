@@ -1,4 +1,4 @@
 # FirstRepo
-Educational repo
+Educational Repo for New Members
 
-🅱achi 🅱argi
+Add your name below and commit:
