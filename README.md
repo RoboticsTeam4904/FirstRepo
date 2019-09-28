@@ -1,6 +1,4 @@
 # FirstRepo
 Educational Repo for New Members
 
-Add your name below and commit:
-Owen Zhang
-Akshar Ramkumar
+Add your control challenge code to the repo, then commit, and make a Pull Request.
