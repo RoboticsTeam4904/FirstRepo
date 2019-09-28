@@ -1,0 +1,5 @@
+function controlFunction(rocket)
+{
+  var gimbal = (rocket.x-200)/800+rocket.theta+rocket.dtheta
+  return {throttle:(-rocket.y)/200+200,gimbalAngle:gimbal};
+}
