@@ -1,0 +1,9 @@
+
+function controlFunction(vehicle){  
+  var s = vehicle.lidarPoints[0].distance - vehicle.lidarPoints[4].distance;
+  
+  var a = 30 +
+      vehicle.speed * -4 +
+      vehicle.lidarPoints[2].distance * 1.5;
+  return {steering: s, acceleration: a};
+};
