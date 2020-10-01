@@ -1,4 +1,4 @@
 # FirstRepo
 Educational Repo for New Members
 
-Add your control challenge code to the repo, then commit, and make a Pull Request.
+Add your name below on a new branch and create a pull request into master
