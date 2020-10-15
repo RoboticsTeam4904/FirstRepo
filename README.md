@@ -13,6 +13,8 @@ Add your name below on a new branch, create a pull request into master, and requ
 To clone a repository, go to the repository on github, click the code button, and copy the link. Then, open a terminal and type the following command:
 ```git clone [link]```, replacing `[link]` witht the repository link. If the repository contains additional repositories (called submodules), use ```git clone --recursive [link]```. Cloning recursively always works, even for repositories without submodules.
 
+For the examples below, you usually omit the `[]`
+
 
 To check which branch you are on:
 ```git branch```
