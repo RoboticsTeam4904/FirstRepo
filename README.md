@@ -100,3 +100,4 @@ The above commands have aliases in `zsh`, which is the default shell on new MacB
 ```git checkout``` is ```gco```
 
 ```git branch``` is ```gb```
+Ethan Was here
