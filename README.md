@@ -6,6 +6,7 @@ Add your name below on a new branch, create a pull request into master, and requ
 - Navon
 - Alexis
 - Taiga
+- Tagir
 
 
 # Useful git and github tips:
