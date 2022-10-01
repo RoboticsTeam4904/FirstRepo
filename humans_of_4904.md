@@ -1,4 +1,5 @@
 # welcomed 2022
+- Aryan 
 
 # welcomed 2020
 - Adam
