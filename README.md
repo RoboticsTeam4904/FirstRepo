@@ -5,6 +5,7 @@ Add your name below on a new branch, create a pull request into master, and requ
 - Daniel (example)
 - Navon
 - Alexis
+- Jackson
 
 
 
