@@ -1,5 +1,6 @@
 # welcomed 2022
 - Aryan 
+- Rohan
 
 # welcomed 2020
 - Adam
