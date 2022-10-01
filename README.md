@@ -1,12 +1,8 @@
 # FirstRepo
 Educational Repo for New Members
 
-Add your name below on a new branch, create a pull request into master, and request Brandon or Daniel as a reviewer. Everything except the pull request + review request should be done via git on the command line.
-- Daniel (example)
-- Navon
-- Alexis
-- Jackson
 
+Add your name to `humans_of_4904.md` on a new branch, create a pull request into `main`, and request your team leads as a reviewer. Everything except the pull request + review request should be done via git on the command line.
 
 
 # Useful git and github tips:
@@ -26,7 +22,7 @@ To change branches:
 
 
 To make a new branch, first checkout the branch that you would like yours to build off of, then:
-```git checkout -b [new branch name]```
+```git switch -c [new branch name]```
 
 
 To add a file:
