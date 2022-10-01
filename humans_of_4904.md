@@ -1,4 +1,5 @@
 # welcomed 2022
+- Eric
 
 # welcomed 2020
 - Adam
