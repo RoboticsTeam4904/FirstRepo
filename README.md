@@ -26,7 +26,7 @@ To change branches:
 
 
 To make a new branch, first checkout the branch that you would like yours to build off of, then:
-```git checkout -b [new branch name]```
+```git switch -c [new branch name]```
 
 
 To add a file:
