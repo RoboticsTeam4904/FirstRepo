@@ -1,4 +1,7 @@
 # welcomed 2022
+- Aryan 
+- Rohan
+- Eric
 - Sylvia
 
 # welcomed 2020
