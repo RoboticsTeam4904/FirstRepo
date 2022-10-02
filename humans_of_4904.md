@@ -2,6 +2,7 @@
 - Aryan 
 - Rohan
 - Eric
+- Sylvia
 
 # welcomed 2020
 - Adam
@@ -11,4 +12,3 @@
 # welcomed 2019
 - Zachary
 - Albert
-
