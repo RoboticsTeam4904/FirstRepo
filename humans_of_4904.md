@@ -4,6 +4,7 @@
 - Eric
 - Sylvia
 - Connor
+- Jack H.
 
 # welcomed 2020
 - Adam
