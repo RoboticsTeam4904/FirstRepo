@@ -5,6 +5,7 @@
 - Sylvia
 - Connor
 - Jack H.
+- Anna
 
 # welcomed 2020
 - Adam
