@@ -3,6 +3,7 @@
 - Rohan
 - Eric
 - Sylvia
+- Connor
 
 # welcomed 2020
 - Adam
