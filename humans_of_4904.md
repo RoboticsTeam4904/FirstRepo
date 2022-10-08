@@ -5,6 +5,7 @@
 - Sylvia
 - Connor
 - Jack H.
+- Test
 
 # welcomed 2020
 - Adam
