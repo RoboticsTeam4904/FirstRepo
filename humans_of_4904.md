@@ -6,6 +6,7 @@
 - Connor
 - Jack H.
 - Max E.
+- Vickie H.
 
 # welcomed 2020
 - Adam
