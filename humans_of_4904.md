@@ -7,6 +7,7 @@
 - Jack H.
 - Max E.
 - Vickie H.
+- Frances
 
 # welcomed 2020
 - Adam
